@@ -1,0 +1,6 @@
+Find more images of the ghosts where the eyes change depending on what direction it's going. 
+(you just need another of each where the eyes are facing left, instead of right)
+ghost images (optional)
+controls file.
+scoring file.
+scores file.
